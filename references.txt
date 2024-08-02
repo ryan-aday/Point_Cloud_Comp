@@ -1,0 +1,10 @@
+opencv-python
+numpy
+open3d
+trimesh
+scipy
+scikit-learn
+matplotlib
+mpl_toolkits
+tdqm
+concurrent
